@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class CheckPermutation {
     public static void main(String[] args) {
         String[] input1 = {"mtu", "dog", "aba", "abba"};
