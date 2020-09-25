@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class isStringRotation {
     public static void main(String[] args) {
         System.out.println( checkStringRotation("waterbottle", "erbottlewat") );
