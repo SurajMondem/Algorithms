@@ -1,19 +1,19 @@
 // Implementation of singly Linked List
+package Library;
 
 public class LinkedNode {
-    int value;
+    public int value;
     public LinkedNode next;
-    public LinkedNode last;
-
-    LinkedNode(){
+    
+    public LinkedNode(){
 
     }
 
-    LinkedNode(int value){
+    public LinkedNode(int value){
         this.value = value;
     }
 
-    LinkedNode(int value, LinkedNode next){
+    public LinkedNode(int value, LinkedNode next){
         this.value = value; this.next = next;
     }
 
