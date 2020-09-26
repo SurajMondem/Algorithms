@@ -1,3 +1,5 @@
+import Library.*;
+
 public class KthNodeToLast {
     public static void main(String[] args) {
         LinkedNode node1 = new LinkedNode(0);

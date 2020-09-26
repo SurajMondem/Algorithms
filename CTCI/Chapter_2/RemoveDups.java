@@ -1,6 +1,5 @@
 import java.util.HashSet;
-
-//import CTCI.Library.*;
+import Library.*;
 
 public class RemoveDups {
     public static void main(String[] args) {

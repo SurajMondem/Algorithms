@@ -1,6 +1,6 @@
 // The New about this Program is that the Head is not Provided, Only the Node which has to be Deleted is provided
 // -> The Trick: Rather than Disconnecting the Node. Copy the Next Node Data to the Current Node and Delete the Next one.
-
+import Library.*;
 
 public class DeleteNode {
     public static void main(String[] args) {
